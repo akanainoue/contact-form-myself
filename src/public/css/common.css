@@ -1,0 +1,16 @@
+header{
+    background-color: black;
+    height: 60px;
+}
+
+.header-logo__wrapper{
+    margin: 0;
+    margin-left: 70px;
+    padding: 10px;
+}
+.header-logo-link{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}

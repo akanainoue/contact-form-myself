@@ -1,0 +1,40 @@
+.confirm-content{
+    margin: 10px auto;
+    text-align: center;
+    width: 45%;
+}
+
+.confirm__heading{
+    margin: 30px;
+}
+
+.confirm-table{
+    width: 100%;
+}
+tr{
+    border-collapse: collapse;
+    border: grey 1px solid;
+}
+th{
+    width: 25%;
+    background-color: #ddd;
+}
+input{
+    /* outline: none; */
+    border: none;
+}
+.submit-btn{
+    appearance: none;
+    background-color: black;
+    color: white;
+    width: 200px;
+    margin-top: 30px;
+    height: 40px;
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+}
+
+/* *{
+    border: red 1px solid;
+} */
